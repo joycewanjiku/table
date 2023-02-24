@@ -1,0 +1,46 @@
+.container{
+background-image: url("bag.jpg");
+background-size: cover;
+height: 600px;
+
+}
+.a {
+    padding-left: 800px;
+    float: left;
+    color:blue;
+    
+    
+    
+
+}
+button{
+    
+    color:white;
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+    
+}
+button1{
+    color:white;
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+    margin: 30px 40px;
+    padding: 23px 15px;
+
+}
+nav a{
+    padding: 10px;
+}
+p{
+    color: orange;
+    font-weight: bold;
+}
+.img{
+    margin-left:1000px;
+    padding: 12%;
+    height: 100px;
+    margin-bottom: 50px;
+    
+}
